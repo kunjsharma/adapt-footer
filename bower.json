@@ -1,13 +1,13 @@
 {
     "name": "adapt-footer",
     "repository": "git://github.com/kunjsharma/adapt-footer.git",
-    "framework": "^3.2.1",
-    "version": "1.0.1",
+    "framework": "^4.0.1",
+    "version": "0.0.1",
     "homepage": "https://github.com/kunjsharma/adapt-footer",
     "issues": "https://github.com/kunjsharma/adapt-footer",
-    "displayName": "InlineMenu",
+    "displayName": "Footer",
     "component": "adapt-footer",
-    "description": "An extension that adds inline menu.",
+    "description": "An extension adds footer under the page.",
     "authors": [
         "Kunj B Sharma <kunjsharma@hotmail.com>"
     ],

@@ -1,11 +1,11 @@
 {
   "name": "adapt-footer",
-  "framework": "^3.2.1",
+  "framework": "^4.0.1",
   "homepage": "https://github.com/kunjsharma/adapt-footer",
   "issues": "https://github.com/kunjsharma/adapt-footer",
   "displayName": "Footer",
   "component": "adapt-footer",
-  "description": "An extension that adds footer.",
+  "description": "An extension adds footer under the page.",
   "authors": [
     "Kunj B Sharma <kunjsharma@hotmail.com>"
   ],
@@ -20,7 +20,7 @@
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "9aa4f5014832785102fcb5e3bfbc3f103a13ac5e"
+    "commit": "9aa4Kunj4832785102fcb5e3bfbc3f103a13ac5e"
   },
   "_source": "git://github.com/kunjsharma/adapt-footer.git",
   "_target": "*",

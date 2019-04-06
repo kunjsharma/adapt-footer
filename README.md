@@ -26,32 +26,60 @@ https://kunjsharma.github.io/#/id/co-05
 Add `_inlineMenu` in course.json:
 
 ```
-	"_inlineMenu": {
-		"_isEnabled": true,
-		"title": "Menu",
-		"_items": [
+	"_footer": {
+	    "_isEnabled": true,
+	    "_items": [
 	        {
-	            "title": "Go to Menu",
-	            "_link": ""
+	            "_titles": [
+	                {
+	                    "title": "&nbsp;"
+	                },
+	                {
+	                    "title": "Adapt Framework"
+	                },
+	                {
+	                    "title": "E-learning"
+	                },
+	                {
+	                    "title": "SCORM"
+	                }
+	            ]
 	        },
 	        {
-	            "title": "Presentation Components",
-	            "_link": "co-05"
+	            "_titles": [
+	                {
+	                    "title": "Presentation Components"
+	                },
+	                {
+	                    "title": "Question Components"
+	                }
+	            ]
 	        },
 	        {
-	            "title": "Question Components",
-	            "_link": "co-10"
+	            "_titles": [
+	                {
+	                    "title": "<br><br><span class='large'>Adapt Footer</span>"
+	                }
+	            ]
 	        },
 	        {
-	            "title": "Adapt Assessment",
-	            "_link": "co-15"
+	            "_titles": [
+	                {
+	                    "title": "Responsive e-learning forum"
+	                },
+	                {
+	                    "title": "Adapt examples"
+	                },
+	                {
+	                    "title": "Community"
+	                }
+	            ]
 	        }
-		]
+	    ]
 	}
 ```
 
-* `title` Menu item title
-* `_link` Link to page. Empty sends to main menu.
+* `title` As many as titles in `_title`
 
 
 ### Demo
