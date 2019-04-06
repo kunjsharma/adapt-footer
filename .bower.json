@@ -1,0 +1,29 @@
+{
+  "name": "adapt-footer",
+  "framework": "^3.2.1",
+  "homepage": "https://github.com/kunjsharma/adapt-footer",
+  "issues": "https://github.com/kunjsharma/adapt-footer",
+  "displayName": "InlineMenu",
+  "component": "adapt-footer",
+  "description": "An extension that adds inline menu.",
+  "authors": [
+    "Kunj B Sharma <kunjsharma@hotmail.com>"
+  ],
+  "main": "/js/adapt-footer.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension",
+    "adapt-footer"
+  ],
+  "license": "GPLv3",
+  "_release": "9aa4f50148",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9aa4f5014832785102fcb5e3bfbc3f103a13ac5e"
+  },
+  "_source": "git://github.com/kunjsharma/adapt-footer.git",
+  "_target": "*",
+  "_originalSource": "adapt-footer",
+  "_direct": true
+}

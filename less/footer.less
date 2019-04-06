@@ -1,0 +1,38 @@
+.footer {
+    width: 100%;
+    position: relative;
+    z-index: 11;
+    background: @mid-grey;
+    color:@white;
+    overflow:auto;
+    .footer-inner {
+        max-width: @device-width-large;
+        //max-width: 100%;
+        margin: 0 auto;
+        .footer-item-container {
+            .footer-item {
+                .footer-item-title-container {
+                    .footer-item-title {
+                        float: left;
+                        .large {
+                            font-size: @item-title-font-size;
+                            font-weight: 300;
+                        }
+                        .medium {
+                            font-size: @sub-title-font-size;
+                        }
+                        .small {
+                            font-size: @body-text-font-size - 2px;
+                        }
+                        .center {
+                            text-align: center;
+                        }
+                        .right {
+                            text-align: right;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

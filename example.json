@@ -1,0 +1,23 @@
+//course.json file
+"_inlineMenu": {
+    "_isEnabled": true,
+    "title": "Menu",
+    "_items": [
+        {
+            "title": "Go to Menu",
+            "_link": ""
+        },
+        {
+            "title": "Presentation Components",
+            "_link": "co-05"
+        },
+        {
+            "title": "Question Components",
+            "_link": "co-10"
+        },
+        {
+            "title": "Adapt Assessment",
+            "_link": "co-15"
+        }
+    ]
+}
