@@ -2,11 +2,8 @@
     
 An Adapt framework extension to add footer under the pages.
 
-In progress.....
-
 
 <img src="assets/adapt-footer.png" alt="Footer">
-
 
 
 ## Installation
@@ -91,6 +88,6 @@ Developed for framework, not tested compatiblity with authoring tool.
 Intended to develop standard Adapt browser/devices specification.
 
 ----------------------------
-**Version number:**  1.0.1 
+**Version number:**  0.0.1 
 **Framework versions:** 4.0.1      
 **Author / maintainer:** Kunj B Sharma <kunjsharma@hotmail.com>     
