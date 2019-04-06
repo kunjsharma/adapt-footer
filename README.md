@@ -13,17 +13,17 @@ In progress.....
 
 First, be sure to install the [Adapt Command Line Interface](https://github.com/cajones/adapt-cli), then from the command line run:
 
-    adapt install inline-menu
+    adapt install footer
 
 Or, download the ZIP and extract into the src > extensions directory and run an appropriate Grunt task.
 
 ### Demo
 
-https://kunjsharma.github.io/#/id/co-05
+https://kunjsharma.github.io
 
 ### Usage
 
-Add `_inlineMenu` in course.json:
+Add `_footer` in course.json:
 
 ```
 	"_footer": {
@@ -81,10 +81,6 @@ Add `_inlineMenu` in course.json:
 
 * `title` As many as titles in `_title`
 
-
-### Demo
-
-https://kunjsharma.github.io/#/id/co-05
 
 ### Limitations
 
