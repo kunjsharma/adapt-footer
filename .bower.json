@@ -3,9 +3,9 @@
   "framework": "^3.2.1",
   "homepage": "https://github.com/kunjsharma/adapt-footer",
   "issues": "https://github.com/kunjsharma/adapt-footer",
-  "displayName": "InlineMenu",
+  "displayName": "Footer",
   "component": "adapt-footer",
-  "description": "An extension that adds inline menu.",
+  "description": "An extension that adds footer.",
   "authors": [
     "Kunj B Sharma <kunjsharma@hotmail.com>"
   ],

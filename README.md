@@ -1,8 +1,11 @@
-# adapt-inline-menu  
+# adapt-footer  
     
-An Adapt framework extension to add menu over the pages.
+An Adapt framework extension to add footer under the pages.
 
-<img src="assets/adapt-inline-menu.png" alt="Inline menu">
+In progress.....
+
+
+<img src="assets/adapt-footer.png" alt="Footer">
 
 
 
