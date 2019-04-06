@@ -18,17 +18,27 @@
                             font-size: @item-title-font-size;
                             font-weight: 300;
                         }
-                        .medium {
-                            font-size: @sub-title-font-size;
+                        span {
+                            &.medium {
+                                font-size: @sub-title-font-size;
+                            }
+                            &.small {
+                                font-size: @body-text-font-size - 2px;
+                            }
+                            &.center {
+                                text-align: center;
+                            }
+                            &.right {
+                                text-align: right;
+                                display:block;
+                            }
                         }
-                        .small {
-                            font-size: @body-text-font-size - 2px;
+                        img {
+                            width: 20px;
+                            filter: saturate(0);
                         }
-                        .center {
-                            text-align: center;
-                        }
-                        .right {
-                            text-align: right;
+                        a {
+                            color: @white !important;
                         }
                     }
                 }
