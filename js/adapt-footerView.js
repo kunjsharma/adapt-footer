@@ -2,7 +2,7 @@ define([
     'core/js/adapt'
 ], function(Adapt) {
 
-    var InlineMenuView = Backbone.View.extend({
+    var FooterView = Backbone.View.extend({
 
         className: "footer",
 
@@ -30,5 +30,5 @@ define([
 
     });
 
-    return InlineMenuView;
+    return FooterView;
 });
