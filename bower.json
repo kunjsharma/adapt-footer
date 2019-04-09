@@ -18,4 +18,5 @@
         "adapt-footer"
     ],
     "license": "GPLv3"
+	"targetAttribute": "_footer"
 }
