@@ -88,6 +88,6 @@ Developed for framework, not tested compatiblity with authoring tool.
 Intended to develop standard Adapt browser/devices specification.
 
 ----------------------------
-**Version number:**  0.0.1 
-**Framework versions:** 4.0.1      
+**Version:**  0.0.1 
+**Framework version:** >=3.2      
 **Author / maintainer:** Kunj B Sharma <kunjsharma@hotmail.com>     
