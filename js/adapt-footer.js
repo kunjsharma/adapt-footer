@@ -3,23 +3,23 @@ define([
     'core/js/adapt',
 ], function(Backbone, Adapt) {
 
-    function setupInlineMenu(inlineMenuData) {
-        var inlineMenuModel = new Backbone.Model(inlineMenuData);
-        var inlineMenuCollection = new Backbone.Collection(inlineMenuModel.get('_inlineMenuItems'));
+    function setupFooter(footerData) {
+        var footerModel = new Backbone.Model(footerData);
+        var footerCollection = new Backbone.Collection(footerModel.get('_footerItems'));
 
-        new InlineMenuView({
-            model: inlineMenuModel,
-            collection: inlineMenuCollection
+        new FooterView({
+            model: footerModel,
+            collection: footerCollection
         }).$el;
     }
 
-    function initInlineMenu() {
-        var inlineMenu = Adapt.course.get('_footer');
-        if (!inlineMenu || inlineMenu._isEnabled === false) return;
-        setupInlineMenu(inlineMenu);
+    function initFooter() {
+        var _oFooter = Adapt.course.get('_footer');
+        if (!_oFooter || _oFooter._isEnabled === false) return;
+        setupFooter(_oFooter);
     }
 
-    var InlineMenuView = Backbone.View.extend({
+    var FooterView = Backbone.View.extend({
 
         className: "footer",
 
@@ -47,5 +47,5 @@ define([
 
     });
 
-    Adapt.on('adapt:start', initInlineMenu);
+    Adapt.on('adapt:start', initFooter);
 });
