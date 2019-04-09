@@ -1,17 +1,17 @@
 {
     "name": "adapt-footer",
-    "repository": "git://github.com/kunjsharma/adapt-footer.git",
-    "framework": "^3.2.1",
-    "version": "0.0.1",
-    "homepage": "https://github.com/kunjsharma/adapt-footer",
+	"version": "0.0.1",
+	"framework": "^3.2.1",
+	"homepage": "https://github.com/kunjsharma/adapt-footer",
     "issues": "https://github.com/kunjsharma/adapt-footer",
+    "repository": "git://github.com/kunjsharma/adapt-footer.git",
     "displayName": "Footer",
-    "component": "adapt-footer",
+    "extension": "footer",
     "description": "An extension adds footer under the page.",
+	"main": "/js/adapt-footer.js",
     "authors": [
         "Kunj B Sharma <kunjsharma@hotmail.com>"
     ],
-    "main": "/js/adapt-footer.js",
     "keywords": [
         "adapt-plugin",
         "adapt-extension",
