@@ -17,6 +17,6 @@
         "adapt-extension",
         "adapt-footer"
     ],
-    "license": "GPLv3"
+    "license": "GPLv3",
 	"targetAttribute": "_footer"
 }
