@@ -1,7 +1,6 @@
 # adapt-footer  
-    
-An Adapt framework extension to add footer under the pages.
 
+An Adapt framework extension that adds footer under the pages.
 
 <img src="assets/adapt-footer.png" alt="Footer">
 
