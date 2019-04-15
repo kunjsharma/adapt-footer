@@ -1,6 +1,6 @@
 # adapt-footer  
 
-<img src="assets/adapt-footer.png" alt="adapt-footer" align="right" width="50%">
+<img src="assets/adapt-footer.png" alt="adapt-footer" align="right" width="45%">
 
 An Adapt framework extension that adds footer under the pages.
 
