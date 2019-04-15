@@ -61,9 +61,6 @@ Add `_footer` in course.json:
 	}
 ```
 
-* `title` title(s) in `_titles`.
-
-
 ### Limitations
 
 Developed for framework, not tested compatiblity with authoring tool.
