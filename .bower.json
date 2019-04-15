@@ -6,7 +6,7 @@
     "issues": "https://github.com/kunjsharma/adapt-footer",
     "displayName": "Footer",
     "extension": "footer",
-    "description": "An extension adds footer under the page.",
+    "description": "An extension that adds footer under the page.",
     "main": "/js/adapt-footer.js",
     "authors": [
         "Kunj B Sharma <kunjsharma@hotmail.com>"
