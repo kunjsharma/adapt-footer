@@ -76,7 +76,7 @@ Add `_footer` in course.json:
 	}
 ```
 
-* `title` As many as titles in `_title`
+* `title` title(s) in `_titles`.
 
 
 ### Limitations
