@@ -56,19 +56,6 @@ Add `_footer` in course.json:
 	                    "title": "<br><br><span class='large'>Adapt Footer</span>"
 	                }
 	            ]
-	        },
-	        {
-	            "_titles": [
-	                {
-	                    "title": "Responsive e-learning forum"
-	                },
-	                {
-	                    "title": "Adapt examples"
-	                },
-	                {
-	                    "title": "Community"
-	                }
-	            ]
 	        }
 	    ]
 	}
