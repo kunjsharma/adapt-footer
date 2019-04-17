@@ -53,7 +53,7 @@ Add `_footer` in course.json:
 	        {
 	            "_titles": [
 	                {
-	                    "title": "<br><br><span class='large'>Adapt Footer</span>"
+	                    "title": "<span class='large'>Adapt Footer</span>"
 	                }
 	            ]
 	        }
@@ -72,4 +72,4 @@ Intended to develop standard Adapt browser/devices specification.
 ----------------------------
 **Version:**  1.0.0  
 **Framework version:** >=3.2   
-**Author / maintainer:** Kunj B Sharma <kunjsharma@hotmail.com>  
+**Author/maintainer:** Kunj B Sharma <kunjsharma@hotmail.com>  

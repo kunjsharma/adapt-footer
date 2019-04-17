@@ -1,7 +1,14 @@
-//course.json file
+//course.json
 "_footer": {
     "_isEnabled": true,
     "_items": [
+        {
+            "_titles": [
+                {
+                    "title": "<br><br>&nbsp;<br><br>"
+                }
+            ]
+        },
         {
             "_titles": [
                 {
@@ -21,17 +28,23 @@
         {
             "_titles": [
                 {
+                    "title": "&nbsp;"
+                },
+                {
                     "title": "Presentation Components"
                 },
                 {
                     "title": "Question Components"
+                },
+                {
+                    "title": "Adapt Assessment"
                 }
             ]
         },
         {
             "_titles": [
                 {
-                    "title": "<br><br><span class='large'>Adapt Footer</span>"
+                    "title": "<br><br><span class='large'>Adapt Footer</span><br>Welcome to the demonstration build for version 4 of the Adapt framework. The focus of this release has been on accessibility, which has been updated to provide a greatly improved experience for users of assistive technology - most noticeably by removing the need to have an 'accessibility mode'. For a complete list of changes, see the Accessibility v4 milestone.<br><br>"
                 }
             ]
         },
@@ -45,6 +58,9 @@
                 },
                 {
                     "title": "Community"
+                },
+                {
+                    "title": "Technical forum"
                 }
             ]
         },
@@ -52,6 +68,27 @@
             "_titles": [
                 {
                     "title": "<br><br>STAY CONNECTED"
+                }
+            ]
+        },
+        {
+            "_titles": [
+                {
+                    "title": "<br><img src='assets/pinterest.svg'><img src='assets/dropbox.svg'> <img src='assets/facebook.svg'> <img src='assets/linkedin.svg'> <img src='assets/twitter.svg'><br><br>"
+                }
+            ]
+        },
+        {
+            "_titles": [
+                {
+                    "title": "<span class='small'><div>Icons made by <a href='https://www.flaticon.com/authors/freepik' title='Freepik'>Freepik</a> from <a href='https://www.flaticon.com/' title='Flaticon'>www.flaticon.com</a> is licensed by <a href='http://creativecommons.org/licenses/by/3.0/' title='Creative Commons BY 3.0' target='_blank'>CC 3.0 BY</a></div></span>"
+                }
+            ]
+        },
+        {
+            "_titles": [
+                {
+                    "title": "<span class='right'>Version: 0.0.1<br>Framework version: >=3.2<br>Author/Maintainer: Kunj B Sharma kunjsharma@hotmail.com</span><br><br><br><br>"
                 }
             ]
         }
