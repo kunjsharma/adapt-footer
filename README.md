@@ -21,44 +21,44 @@ https://kunjsharma.github.io
 Add `_footer` in course.json:
 
 ```
-	"_footer": {
-	    "_isEnabled": true,
-	    "_items": [
-	        {
-	            "_titles": [
-	                {
-	                    "title": "&nbsp;"
-	                },
-	                {
-	                    "title": "Adapt Framework"
-	                },
-	                {
-	                    "title": "E-learning"
-	                },
-	                {
-	                    "title": "SCORM"
-	                }
-	            ]
-	        },
-	        {
-	            "_titles": [
-	                {
-	                    "title": "Presentation Components"
-	                },
-	                {
-	                    "title": "Question Components"
-	                }
-	            ]
-	        },
-	        {
-	            "_titles": [
-	                {
-	                    "title": "<span class='large'>Adapt Footer</span>"
-	                }
-	            ]
-	        }
+"_footer": {
+    "_isEnabled": true,
+    "_items": [
+	{
+	    "_titles": [
+		{
+		    "title": "&nbsp;"
+		},
+		{
+		    "title": "Adapt Framework"
+		},
+		{
+		    "title": "E-learning"
+		},
+		{
+		    "title": "SCORM"
+		}
+	    ]
+	},
+	{
+	    "_titles": [
+		{
+		    "title": "Presentation Components"
+		},
+		{
+		    "title": "Question Components"
+		}
+	    ]
+	},
+	{
+	    "_titles": [
+		{
+		    "title": "<span class='large'>Adapt Footer</span>"
+		}
 	    ]
 	}
+    ]
+}
 ```
 
 ### Limitations
