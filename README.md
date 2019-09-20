@@ -72,4 +72,4 @@ Intended to develop standard Adapt browser/devices specification.
 ----------------------------
 **Version:**  2.0.0  
 **Framework version:** >=4.0.0   
-**Author/maintainer:** Kunj B Sharma <kunjsharma@hotmail.com>  
+**Author/maintainer:** Kunj <kunjsharma@hotmail.com>  

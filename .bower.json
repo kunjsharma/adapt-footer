@@ -9,7 +9,7 @@
     "description": "An extension that adds footer under the pages.",
     "main": "/js/adapt-footer.js",
     "authors": [
-        "Kunj B Sharma <kunjsharma@hotmail.com>"
+        "Kunj <kunjsharma@hotmail.com>"
     ],
     "keywords": [
         "adapt-plugin",
