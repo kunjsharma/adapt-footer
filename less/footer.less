@@ -2,7 +2,7 @@
     width: 100%;
     position: relative;
     z-index: 11;
-    background: @mid-grey;
+    background: @greyDark;
     color:@white;
     overflow:auto;
     .footer-inner {
@@ -15,15 +15,14 @@
                     .footer-item-title {
                         float: left;
                         .large {
-                            font-size: @item-title-font-size;
-                            font-weight: 300;
+                            font-size: @item-title-size;
                         }
                         span {
                             &.medium {
-                                font-size: @sub-title-font-size;
+                                font-size: @item-title-size;
                             }
                             &.small {
-                                font-size: @body-text-font-size - 2px;
+                                font-size: @body-size - 2px;
                             }
                             &.center {
                                 text-align: center;
@@ -36,6 +35,8 @@
                         img {
                             width: 20px;
                             filter: saturate(0);
+                            min-width: 20px;
+                            display: inline-block;
                         }
                         a {
                             color: @white !important;

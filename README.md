@@ -70,6 +70,6 @@ Developed for framework, not tested compatiblity with authoring tool.
 Intended to develop standard Adapt browser/devices specification.
 
 ----------------------------
-**Version:**  2.0.0  
-**Framework version:** >=4.0.0   
-**Author/maintainer:** Kunj <kunjsharma@hotmail.com>  
+**Version:**  3.0.0  
+**Framework version:** 5.0.0   
+**Author/maintainer:** Kunj <kunjsharma@hotmail.com>
